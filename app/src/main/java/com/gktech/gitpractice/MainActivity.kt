@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         println("THIS IS CONTAINED IN MY SECOND COMMIT")
         println("Created Test branch 2")
+        println("Created Test branch 3")
     }
 }
